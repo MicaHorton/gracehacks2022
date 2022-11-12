@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gracehacks2022",
+    "slug": "gracehacks2022",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gracehacks2022"
+}
